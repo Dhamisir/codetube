@@ -1,0 +1,1 @@
+we not create the modal or scheam beacuse we fetch data from api so it is not conform what is the data type or keys, so we use mongoclient.
